@@ -26,16 +26,17 @@ They will also be posted to https://genaibook.substack.com/. Feel free to drop a
 
 | Chapter                                                                                                         | Status      |
 | --------------------------------------------------------------------------------------------------------------- | ----------- |
-| 1. [Interacting with Language Models Programatically](.01-interacting-with-language-models-programatically)     | ⚙️ Beta     |
-| 2. [AI Messaging and Basic Prompt Engineering](./02-chats-and-prompting-techniques)                             | ⚙️ Beta     |
-| 3. [Introduction to Tool Calling](./03-intro-to-tool-calling)                                                   | 🛠️ Alpha    |
-| 4. [Building an Agentic Tool-Calling Loop from Scratch](./04-building-an-agentic-tool-calling-loop-from-scratc) | 💭 Outline  |
-| 5. [Tool Calling Techniques for Security and Clarity](./05-tool-calling-techniques-for-security-and-clarity)    | 💭 Outline  |
+| 1. [Interacting with Language Models Programatically](./intro--genai-the-good-parts/01-interacting-with-language-models-programatically/)     | ⚙️ Beta     |
+| 2. [AI Messaging and Basic Prompt Engineering](./intro--genai-the-good-parts/02-chats-and-prompting-techniques/)                             | ⚙️ Beta     |
+| 3. [Introduction to Tool Calling](./intro--genai-the-good-parts/03-intro-to-tool-calling/)                                                   | 🛠️ Alpha    |
+| 4. [Building an Agentic Tool-Calling Loop from Scratch](./intro--genai-the-good-parts/04-building-an-agentic-tool-calling-loop-from-scratch/) | 💭 Outline  |
+| 5. [Tool Calling Techniques for Security and Clarity](./intro--genai-the-good-parts/05-tool-calling-techniques-for-security-and-clarity/)    | 💭 Outline  |
 | 6. Multi-Agent Architectures                                                                                    | Coming soon |
 | 7. Chain of Thought and other Intermediate Prompt Engineering Techniques                                        | Coming soon |
 | 8. Retrieval Augmented Generation (RAG)                                                                         | Coming soon |
 | 9. Outer-Loop Agents                                                                                            | Coming soon |
 
+<!-- soon
 ### Table of Contents - workshop: Agents, The Hard Way
 
 | Chapter                                                                                                         | Status      |
@@ -43,6 +44,7 @@ They will also be posted to https://genaibook.substack.com/. Feel free to drop a
 | 1. [Calling Model APIs and building CLI chat loops](./01-calling-model-apis-and-building-cli-chat-loops)     | ⚙️ Beta     |
 | 2. [Tool calls and tool-calling loops, local MCP servers](./02-tool-calls-and-tool-calling-loops-local-mcp-servers)                             | ⚙️ Beta     |
 | 3. [Structured outputs as function calls, intro to BAML](./03-structured-outputs-as-function-calls-intro-to-baml)                                                   | 🛠️ Alpha    |
+-->
 
 <!-- soon
 - Soon Tell your friends! [social post examples](#social-post-examples)
