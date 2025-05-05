@@ -4,7 +4,7 @@
 
 If you're here, you've been invited to review early versions of chapters.
 
-(The main README is now in [README-pub.md](./README-pub.md), use that to get started.)
+(The main README is now in [README-pub.md](./intro--genai-the-good-parts/README-pub.md), use that to get started.)
 
 ### How this private repo works
 
